@@ -1,0 +1,5 @@
+B:\Far Cry 3\bin\working\editor\FC3Editor\obj\x86\Debug\FC3Editor.csprojResolveAssemblyReference.cache
+B:\Far Cry 3\bin\working\editor\FC3Editor\obj\x86\Debug\FC3Editor.exe
+B:\Far Cry 3\bin\working\editor\FC3Editor\obj\x86\Debug\FC3Editor.pdb
+B:\Far Cry 3\bin\FC3Editor.exe
+B:\Far Cry 3\bin\FC3Editor.pdb

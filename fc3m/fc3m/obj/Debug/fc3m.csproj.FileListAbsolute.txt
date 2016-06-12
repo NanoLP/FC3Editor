@@ -1,0 +1,17 @@
+B:\Far Cry 3\bin\working\Exports\FC3M\EasyHook64.dll
+B:\Far Cry 3\bin\working\Exports\FC3M\EasyHook64Svc.exe
+B:\Far Cry 3\bin\working\Exports\FC3M\EasyHook32Drv.sys
+B:\Far Cry 3\bin\working\Exports\FC3M\EasyHook32.dll
+B:\Far Cry 3\bin\working\Exports\FC3M\EasyHook32Svc.exe
+B:\Far Cry 3\bin\working\Exports\FC3M\EasyHook64Drv.sys
+B:\Far Cry 3\bin\working\Exports\FC3M\FC3Editor.Core.dll.config
+B:\Far Cry 3\bin\working\Exports\FC3M\FC3Editor.Core.dll
+B:\Far Cry 3\bin\working\Exports\FC3M\FC3Editor.Core.pdb
+B:\Far Cry 3\bin\working\fc3m\fc3m\obj\Debug\fc3m.csprojResolveAssemblyReference.cache
+B:\Far Cry 3\bin\working\fc3m\fc3m\obj\Debug\fc3m.frmMainGame.resources
+B:\Far Cry 3\bin\working\fc3m\fc3m\obj\Debug\Nomad.NomadForm.resources
+B:\Far Cry 3\bin\working\fc3m\fc3m\obj\Debug\Nomad.ViewportControl.resources
+B:\Far Cry 3\bin\working\fc3m\fc3m\obj\Debug\fc3m.Properties.Resources.resources
+B:\Far Cry 3\bin\working\fc3m\fc3m\obj\Debug\fc3m.csproj.GenerateResource.Cache
+B:\Far Cry 3\bin\working\fc3m\fc3m\obj\Debug\FC3Editor.Core.dll
+B:\Far Cry 3\bin\working\fc3m\fc3m\obj\Debug\FC3Editor.Core.pdb

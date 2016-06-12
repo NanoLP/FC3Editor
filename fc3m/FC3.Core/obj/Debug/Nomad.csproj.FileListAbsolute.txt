@@ -1,0 +1,8 @@
+B:\Far Cry 3\bin\working\Exports\Nomad_Engine\Nomad.dll
+B:\Far Cry 3\bin\working\Exports\Nomad_Engine\Nomad.pdb
+B:\Far Cry 3\bin\working\fc3m\FC3.Core\obj\Debug\Nomad.csprojResolveAssemblyReference.cache
+B:\Far Cry 3\bin\working\fc3m\FC3.Core\obj\Debug\Nomad.NomadForm.resources
+B:\Far Cry 3\bin\working\fc3m\FC3.Core\obj\Debug\Nomad.ViewportControl.resources
+B:\Far Cry 3\bin\working\fc3m\FC3.Core\obj\Debug\Nomad.csproj.GenerateResource.Cache
+B:\Far Cry 3\bin\working\fc3m\FC3.Core\obj\Debug\Nomad.dll
+B:\Far Cry 3\bin\working\fc3m\FC3.Core\obj\Debug\Nomad.pdb
