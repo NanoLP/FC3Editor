@@ -25,7 +25,7 @@ namespace fc3m
 			_mainForm = new frmMainGame(this);
 			MainForm.Show();
 			OnPostLoad += fc3mGame_OnPostLoad;
-            Run(false, @"C:\Users\Kirill Neduzhiy\Documents\My Games\Far Cry 3\user maps\dc.fc3map");
+            Run(false, @"C:\Users\Me\Documents\My Games\Far Cry 3\user maps\dc.fc3map");
 		}
 
 		void fc3mGame_OnPostLoad(object sender, EventArgs e)
